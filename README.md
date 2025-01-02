@@ -16,7 +16,3 @@
 
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Storage**: Local storage
-
-If you have any questions, or feedback, or need support, please contact me directly at rohitjaiswal8898@gmail.com<br>
-Thank you for checking out Notes taking app! I hope it's useful to you. 
-
