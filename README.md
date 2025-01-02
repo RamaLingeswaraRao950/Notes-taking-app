@@ -1,10 +1,8 @@
-# [Notes Taking App](https://pro-manage-tasks.vercel.app/)
+# [Notes Taking App](https://notes-taking-app-nine.vercel.app/)
 
 **Notes Taking App** is a simple and user-friendly application that allows users to create groups and store notes within those groups. Built using **HTML**, **CSS**, **JavaScript**, and **React**, this app leverages local storage to maintain data and timestamps for each note.
 
 ![Notes Taking App](https://github.com/user-attachments/assets/d4093ec5-4c9b-4629-a4b9-74ff3c0b8347)
-
- <!-- Replace this with the actual path to your image -->
 
 ## Features
 
